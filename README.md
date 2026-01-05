@@ -69,7 +69,7 @@ I also build **Telegram Bots**, and I work with **Python**, **Java**, and **Redi
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/husseinsattar/
-- 🐙 GitHub: https://github.com/lteeal
+- 🐙 GitHub: https://github.com/lteaal
 - 📧 Email: husseinsatar35@gmail.com
 - 📱 WhatsApp: https://wa.me/9647806041332
 
