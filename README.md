@@ -16,7 +16,6 @@ I also develop Telegram Bots and work with Python, Java, Spring Boot
 - 🎓 **Bachelor’s Degree in Computer Science** – University of Technology (2020 – 2024)
 
 - 🧠 **Technical Consultant** at **Prema Consulting** (2025 – Present)  
-  Working on core banking and enterprise systems, contributing to system analysis, backend architecture, API development, and performance optimization.
 
 - 💼 **Backend Developer** at **The Beating Heart Company** (2024 – 2025)
 
