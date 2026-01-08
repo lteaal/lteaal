@@ -31,6 +31,13 @@ I also develop Telegram Bots and work with Python, Java, and Redis.
   <a href="https://github.com/lteaal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
   </a>
+  <a href="https://wa.me/9647806041332" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg"
+       height="30"
+       width="40" />
+</a>
+
 </p>
 
 ---
