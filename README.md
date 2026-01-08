@@ -2,10 +2,11 @@
 
 <h3 align="center">
 IT Specialist & Backend Developer with experience in building large-scale and commercial applications using .NET.<br>
-Skilled in API development, database optimization, and clean backend architecture.<br>
-Currently working as a <strong>Technical Consultant</strong> on core banking and enterprise systems.<br>
+Skilled in RESTful API design, CQRS, database optimization, and clean backend architecture.<br>
+Currently working as a Technical Consultant on core banking and enterprise systems.<br>
 I also develop Telegram Bots and work with Python, Java, Spring Boot
 </h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lteeal&label=Profile%20views&color=0e75b6&style=flat" />
