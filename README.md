@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Hussein Sattar</h1>
 
 <h3 align="center">
-Backend Developer & IT Specialist with experience in building large-scale and commercial applications using .NET.<br>
+IT Specialist & Backend Developer with experience in building large-scale and commercial applications using .NET.<br>
 Skilled in API development, database optimization, and clean backend architecture.<br>
-I also develop Telegram Bots and work with Python, Java, Spring Boot, and Redis.
+Currently working as a <strong>Technical Consultant</strong> on core banking and enterprise systems.<br>
+I also develop Telegram Bots and work with Python, Java, Spring Boot
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lteeal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=lteeal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 - 🎓 **Bachelor’s Degree in Computer Science** – University of Technology (2020 – 2024)
 
-- 💼 **Backend Developer** at **The Beating Heart Company** (2024 – Present)
+- 🧠 **Technical Consultant** at **Prema Consulting** (2025 – Present)  
+  Working on core banking and enterprise systems, contributing to system analysis, backend architecture, API development, and performance optimization.
+
+- 💼 **Backend Developer** at **The Beating Heart Company** (2024 – 2025)
 
 - 🧑‍💼 **IT Manager** at **Next Level Group Company** (2024 – 2025)
 
 - 🤖 I build **Telegram Bots**
 
-- 💬 Ask me about **.NET, Backend Development, Python, Java, Spring Boot, Redis**
+- 💬 Ask me about **.NET, Backend Development, Python, Java, C# **
 
 - 📫 How to reach me **[💬 WhatsApp](https://wa.me/9647806041332)**
-
 
 ---
 
