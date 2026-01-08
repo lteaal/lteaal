@@ -75,7 +75,6 @@ I also develop Telegram Bots and work with Python, Java, Spring Boot
 
   <!-- Integrations -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="40" height="40" title="SMS Services (SMSS / OTP)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" title="Telegram Bots"/>
 
   <!-- IDEs & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
