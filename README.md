@@ -98,9 +98,11 @@ I also develop Telegram Bots and work with Python, Java, Spring Boot
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lteeal&show_icons=true&locale=en&layout=compact" />
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=lteeal&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lteeal&show_icons=true&locale=en" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=lteeal&show_icons=true&locale=en" />
 </p>
