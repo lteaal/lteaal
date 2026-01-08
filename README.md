@@ -74,7 +74,6 @@ I also develop Telegram Bots and work with Python, Java, Spring Boot
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>
 
   <!-- Integrations -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="40" height="40" title="SMS Services (SMSS / OTP)"/>
 
   <!-- IDEs & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
