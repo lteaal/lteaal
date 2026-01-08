@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hussein Sattar</h1>
+1 align="center">Hi 👋, I'm Hussein Sattar</h1>
 <h3 align="center">
 Backend Developer & IT Specialist with experience in building large-scale and commercial applications using .NET. 
 Skilled in API development, database optimization, and clean backend architecture. 
@@ -34,6 +34,12 @@ I also develop Telegram Bots and work with Python, Java, and Redis.
   <a href="https://wa.me/9647806041332" target="_blank">
   <img align="center"
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg"
+       height="30"
+       width="40" />
+</a>
+<a href="https://www.instagram.com/teei/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
        height="30"
        width="40" />
 </a>
